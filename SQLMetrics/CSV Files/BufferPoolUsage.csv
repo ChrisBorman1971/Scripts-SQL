@@ -1,0 +1,6 @@
+Buffer Pool Rank    ,Database Name                                                                                                                   ,Cached Size (MB),Buffer Pool Percent
+                   1,AdventureWorksDW2008R2                                                                                                          ,           23.65,              62.53
+                   2,msdb                                                                                                                            ,            8.79,              23.24
+                   3,tempdb                                                                                                                          ,            3.04,               8.04
+                   4,master                                                                                                                          ,            2.10,               5.55
+                   5,model                                                                                                                           ,             .24,                .63

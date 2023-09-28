@@ -1,0 +1,8 @@
+SQL Version                                                                                                                                                                                                                                                                                                 ,Logical CPUs,Logical vs Physical Cores Ratio,Physical Memory(MB) ,Virtual Memory(MB)  ,Committed Memory(MB),Committed Target Memory(MB),Max Workers Count,SQL Server Start Time  ,Socket Count,Cores      ,Numa Nodes 
+Microsoft SQL Server 2019 (RTM) - 15.0.2000.5 (X64) 
+	Sep 24 2019 13:48:23 
+	Copyright (C) 2019 Microsoft Corporation
+	Developer Edition (64-bit) on Windows 10 Enterprise N 10.0 <X64> (Build 18362: )
+                                                                                                    ,           8,                              8,               16279,           134217727,                 450,                       9320,              576,2021-01-06 11:15:24.723,           1,          4,          1
+
+(1 rows affected)

@@ -1,0 +1,6 @@
+SchemaName,ViewName                                          ,TotalRowCount
+dbo       ,vDMPrep                                           ,        60398
+dbo       ,vTimeSeries                                       ,          360
+dbo       ,vTargetMail                                       ,        18484
+dbo       ,vAssocSeqOrders                                   ,        21255
+dbo       ,vAssocSeqLineItems                                ,        52761

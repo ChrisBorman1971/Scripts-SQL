@@ -1,0 +1,5 @@
+CPU Rank            ,Database Name                                                                                                                   ,CPU Time (ms)       ,CPU Percent
+                   1,AdventureWorksDW2008R2                                                                                                          ,                3501,      64.79
+                   2,master                                                                                                                          ,                1192,      22.06
+                   3,msdb                                                                                                                            ,                 466,       8.62
+                   4,tempdb                                                                                                                          ,                 245,       4.53
