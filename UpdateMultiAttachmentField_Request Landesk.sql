@@ -1,0 +1,3 @@
+    update rm_request_attachment set usr_multiattachmentdocument = '<ArrayOfDataObjectAttachment>' + rm_attachment + '</ArrayOfDataObjectAttachment>'   
+    where rm_attachment is not null -- only attachments with current attachments  
+      and (usr_multiattachmentdocument is null or usr_multiattachmentdocument = '<ArrayOfDataObjectAttachment />') -- copy only if multi file attachment attribute is empty  
